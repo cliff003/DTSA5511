@@ -9,6 +9,8 @@ This project aims to develop and evaluate a machine learning model capable of pr
   - `heatmap.png`: Win Ratios Heatmap for Top 20 Models
   - `winratios.png`: Bar chart of the Top 20 Models with Most Win Ratios
   - `wins.png`: Bar chart of the Top 20 Models with Most Wins
+  - `chat.png`: Example of a chat used for model training
+  - `loss.png`: Line charts of Training and Validation Loss per Epoch for each fold
 - `LMSYS_Project.ipynb`: The Jupyter Notebook containing the complete code for data preprocessing, model training, evaluation, and visualization.
 
 ## Project Structure
@@ -22,7 +24,6 @@ This project aims to develop and evaluate a machine learning model capable of pr
 3. **Model Training and Evaluation**
    - Utilizes Microsoft’s DeBERTa-v3 model (`microsoft/deberta-v3-xsmall`).
    - Implements a 5-fold cross-validation strategy.
-   - Uses Cross-Entropy Loss for training and log loss for validation performance evaluation.
 
 4. **Future Improvements**
    - Suggestions for hyperparameter tuning, regularization techniques, data augmentation, model ensembling, exploring advanced architectures, and extended training.
