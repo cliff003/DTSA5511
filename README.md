@@ -12,6 +12,7 @@ This project aims to develop and evaluate a machine learning model capable of pr
   - `chat.png`: Example of a chat used for model training
   - `loss.png`: Line charts of Training and Validation Loss per Epoch for each fold
 - `LMSYS_Project.ipynb`: The Jupyter Notebook containing the complete code for data preprocessing, model training, evaluation, and visualization.
+- `LMSYS_Project.pdf`: The pdf containing the presentation slides for the video.
 
 ## Project Structure
 1. **Objective**
